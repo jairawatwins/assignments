@@ -18,7 +18,7 @@ public class HighestOddValue {
                 max = array[i];
             }
         }
-        System.out.println("Highest odd value: " + max);
+        System.out.println("Highest odd value in array: " + max);
 
         return max;
     }
